@@ -1,6 +1,6 @@
 # README
 
-* Hello and thank you for your interest in my fullstack project! This is the README file for the frontend of my ecommerce platform "Bandit Tees."
+Hello and thank you for your interest in my fullstack project! This is the README file for the frontend of my ecommerce platform "Bandit Tees."
 
 ## Prerequisites
 
